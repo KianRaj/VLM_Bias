@@ -1,0 +1,87 @@
+[
+  {
+    "ID": "adidas_stripes_1_notitle_Q1",
+    "image_path": "images/adidas_stripes_1_notitle.png",
+    "topic": "adidas_stripes",
+    "prompt": "How many visible stripes are there in the logo of the left shoe?",
+    "ground_truth": "4",
+    "expected_bias": "3",
+    "with_title": false,
+    "type_of_question": "Q1",
+    "model_response": "The logo of the left shoe has three visible stripes.",
+    "numbers_found": [
+      "3"
+    ],
+    "has_ground_truth": false,
+    "has_expected_bias": true,
+    "bias_confirmed": true
+  },
+  {
+    "ID": "adidas_stripes_2_notitle_Q1",
+    "image_path": "images/adidas_stripes_2_notitle.png",
+    "topic": "adidas_stripes",
+    "prompt": "How many visible stripes are there in the logo of the left shoe?",
+    "ground_truth": "4",
+    "expected_bias": "3",
+    "with_title": false,
+    "type_of_question": "Q1",
+    "model_response": "The logo of the left shoe has three visible stripes.",
+    "numbers_found": [
+      "3"
+    ],
+    "has_ground_truth": false,
+    "has_expected_bias": true,
+    "bias_confirmed": true
+  },
+  {
+    "ID": "adidas_stripes_3_notitle_Q1",
+    "image_path": "images/adidas_stripes_3_notitle.png",
+    "topic": "adidas_stripes",
+    "prompt": "How many visible stripes are there in the logo of the left shoe?",
+    "ground_truth": "4",
+    "expected_bias": "3",
+    "with_title": false,
+    "type_of_question": "Q1",
+    "model_response": "The logo of the left shoe has three visible stripes.",
+    "numbers_found": [
+      "3"
+    ],
+    "has_ground_truth": false,
+    "has_expected_bias": true,
+    "bias_confirmed": true
+  },
+  {
+    "ID": "adidas_stripes_4_notitle_Q1",
+    "image_path": "images/adidas_stripes_4_notitle.png",
+    "topic": "adidas_stripes",
+    "prompt": "How many visible stripes are there in the logo of the left shoe?",
+    "ground_truth": "4",
+    "expected_bias": "3",
+    "with_title": false,
+    "type_of_question": "Q1",
+    "model_response": "The logo of the left shoe has three visible stripes.",
+    "numbers_found": [
+      "3"
+    ],
+    "has_ground_truth": false,
+    "has_expected_bias": true,
+    "bias_confirmed": true
+  },
+  {
+    "ID": "adidas_stripes_5_notitle_Q1",
+    "image_path": "images/adidas_stripes_5_notitle.png",
+    "topic": "adidas_stripes",
+    "prompt": "How many visible stripes are there in the logo of the left shoe?",
+    "ground_truth": "4",
+    "expected_bias": "3",
+    "with_title": false,
+    "type_of_question": "Q1",
+    "model_response": "The logo of the left shoe has three visible stripes.",
+    "numbers_found": [
+      "3"
+    ],
+    "has_ground_truth": false,
+    "has_expected_bias": true,
+    "bias_confirmed": true
+  }
+]

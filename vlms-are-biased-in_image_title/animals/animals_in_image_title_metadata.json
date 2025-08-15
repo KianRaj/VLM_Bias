@@ -1,0 +1,52 @@
+[
+  {
+    "ID": "animals_1_in_image_title_Q1",
+    "image_path": "images/animals_1_in_image_title.png",
+    "topic": "animals",
+    "prompt": "How many legs does this animal have?",
+    "ground_truth": "5",
+    "expected_bias": "4",
+    "with_title": true,
+    "type_of_question": "Q1"
+  },
+  {
+    "ID": "animals_2_in_image_title_Q1",
+    "image_path": "images/animals_2_in_image_title.png",
+    "topic": "animals",
+    "prompt": "How many legs does this animal have?",
+    "ground_truth": "5",
+    "expected_bias": "4",
+    "with_title": true,
+    "type_of_question": "Q1"
+  },
+  {
+    "ID": "animals_3_in_image_title_Q1",
+    "image_path": "images/animals_3_in_image_title.png",
+    "topic": "animals",
+    "prompt": "How many legs does this animal have?",
+    "ground_truth": "5",
+    "expected_bias": "4",
+    "with_title": true,
+    "type_of_question": "Q1"
+  },
+  {
+    "ID": "animals_4_in_image_title_Q1",
+    "image_path": "images/animals_4_in_image_title.png",
+    "topic": "animals",
+    "prompt": "How many legs does this animal have?",
+    "ground_truth": "5",
+    "expected_bias": "4",
+    "with_title": true,
+    "type_of_question": "Q1"
+  },
+  {
+    "ID": "animals_5_in_image_title_Q1",
+    "image_path": "images/animals_5_in_image_title.png",
+    "topic": "animals",
+    "prompt": "How many legs does this animal have?",
+    "ground_truth": "5",
+    "expected_bias": "4",
+    "with_title": true,
+    "type_of_question": "Q1"
+  }
+]

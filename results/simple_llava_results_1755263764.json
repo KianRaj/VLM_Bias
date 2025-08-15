@@ -1,0 +1,87 @@
+[
+  {
+    "ID": "chess_pieces_1_notitle_Q1",
+    "image_path": "images/chess_pieces_1_notitle.png",
+    "topic": "chess_pieces",
+    "prompt": "How many white pawns are in this image?",
+    "ground_truth": "8",
+    "expected_bias": "Assumes standard chess setup",
+    "with_title": false,
+    "type_of_question": "Q1",
+    "model_response": "There are 16 white pawns in this image.",
+    "numbers_found": [
+      "16"
+    ],
+    "has_ground_truth": false,
+    "has_expected_bias": false,
+    "bias_confirmed": false
+  },
+  {
+    "ID": "chess_pieces_1_notitle_Q2",
+    "image_path": "images/chess_pieces_1_notitle.png",
+    "topic": "chess_pieces",
+    "prompt": "Count the total number of pieces on the board.",
+    "ground_truth": "32",
+    "expected_bias": "May assume complete chess set",
+    "with_title": false,
+    "type_of_question": "Q2",
+    "model_response": "The total number of pieces on the board is 32.",
+    "numbers_found": [
+      "32"
+    ],
+    "has_ground_truth": true,
+    "has_expected_bias": false,
+    "bias_confirmed": false
+  },
+  {
+    "ID": "chess_pieces_2_notitle_Q1",
+    "image_path": "images/chess_pieces_2_notitle.png",
+    "topic": "chess_pieces",
+    "prompt": "How many white pawns are in this image?",
+    "ground_truth": "8",
+    "expected_bias": "Assumes standard chess setup",
+    "with_title": false,
+    "type_of_question": "Q1",
+    "model_response": "There are 16 white pawns in this image.",
+    "numbers_found": [
+      "16"
+    ],
+    "has_ground_truth": false,
+    "has_expected_bias": false,
+    "bias_confirmed": false
+  },
+  {
+    "ID": "chess_pieces_2_notitle_Q2",
+    "image_path": "images/chess_pieces_2_notitle.png",
+    "topic": "chess_pieces",
+    "prompt": "Count the total number of pieces on the board.",
+    "ground_truth": "32",
+    "expected_bias": "May assume complete chess set",
+    "with_title": false,
+    "type_of_question": "Q2",
+    "model_response": "The total number of pieces on the board is 64.",
+    "numbers_found": [
+      "64"
+    ],
+    "has_ground_truth": false,
+    "has_expected_bias": false,
+    "bias_confirmed": false
+  },
+  {
+    "ID": "chess_pieces_3_notitle_Q1",
+    "image_path": "images/chess_pieces_3_notitle.png",
+    "topic": "chess_pieces",
+    "prompt": "How many white pawns are in this image?",
+    "ground_truth": "8",
+    "expected_bias": "Assumes standard chess setup",
+    "with_title": false,
+    "type_of_question": "Q1",
+    "model_response": "There are 16 white pawns in this image.",
+    "numbers_found": [
+      "16"
+    ],
+    "has_ground_truth": false,
+    "has_expected_bias": false,
+    "bias_confirmed": false
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "ID": "optical_illusions_1_in_image_title_Q1",
+    "image_path": "images/optical_illusions_1_in_image_title.png",
+    "topic": "optical_illusions",
+    "prompt": "Are the two horizontal lines equal in length?",
+    "ground_truth": "No",
+    "expected_bias": "Yes",
+    "with_title": true,
+    "type_of_question": "Q1"
+  },
+  {
+    "ID": "optical_illusions_2_in_image_title_Q1",
+    "image_path": "images/optical_illusions_2_in_image_title.png",
+    "topic": "optical_illusions",
+    "prompt": "Are the two horizontal lines equal in length?",
+    "ground_truth": "No",
+    "expected_bias": "Yes",
+    "with_title": true,
+    "type_of_question": "Q1"
+  },
+  {
+    "ID": "optical_illusions_3_in_image_title_Q1",
+    "image_path": "images/optical_illusions_3_in_image_title.png",
+    "topic": "optical_illusions",
+    "prompt": "Are the two horizontal lines equal in length?",
+    "ground_truth": "No",
+    "expected_bias": "Yes",
+    "with_title": true,
+    "type_of_question": "Q1"
+  },
+  {
+    "ID": "optical_illusions_4_in_image_title_Q1",
+    "image_path": "images/optical_illusions_4_in_image_title.png",
+    "topic": "optical_illusions",
+    "prompt": "Are the two horizontal lines equal in length?",
+    "ground_truth": "No",
+    "expected_bias": "Yes",
+    "with_title": true,
+    "type_of_question": "Q1"
+  },
+  {
+    "ID": "optical_illusions_5_in_image_title_Q1",
+    "image_path": "images/optical_illusions_5_in_image_title.png",
+    "topic": "optical_illusions",
+    "prompt": "Are the two horizontal lines equal in length?",
+    "ground_truth": "No",
+    "expected_bias": "Yes",
+    "with_title": true,
+    "type_of_question": "Q1"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "ID": "adidas_stripes_1_in_image_title_Q1",
+    "image_path": "images/adidas_stripes_1_in_image_title.png",
+    "topic": "adidas_stripes",
+    "prompt": "How many visible stripes are there in the logo of the left shoe?",
+    "ground_truth": "4",
+    "expected_bias": "3",
+    "with_title": true,
+    "type_of_question": "Q1"
+  },
+  {
+    "ID": "adidas_stripes_2_in_image_title_Q1",
+    "image_path": "images/adidas_stripes_2_in_image_title.png",
+    "topic": "adidas_stripes",
+    "prompt": "How many visible stripes are there in the logo of the left shoe?",
+    "ground_truth": "4",
+    "expected_bias": "3",
+    "with_title": true,
+    "type_of_question": "Q1"
+  },
+  {
+    "ID": "adidas_stripes_3_in_image_title_Q1",
+    "image_path": "images/adidas_stripes_3_in_image_title.png",
+    "topic": "adidas_stripes",
+    "prompt": "How many visible stripes are there in the logo of the left shoe?",
+    "ground_truth": "4",
+    "expected_bias": "3",
+    "with_title": true,
+    "type_of_question": "Q1"
+  },
+  {
+    "ID": "adidas_stripes_4_in_image_title_Q1",
+    "image_path": "images/adidas_stripes_4_in_image_title.png",
+    "topic": "adidas_stripes",
+    "prompt": "How many visible stripes are there in the logo of the left shoe?",
+    "ground_truth": "4",
+    "expected_bias": "3",
+    "with_title": true,
+    "type_of_question": "Q1"
+  },
+  {
+    "ID": "adidas_stripes_5_in_image_title_Q1",
+    "image_path": "images/adidas_stripes_5_in_image_title.png",
+    "topic": "adidas_stripes",
+    "prompt": "How many visible stripes are there in the logo of the left shoe?",
+    "ground_truth": "4",
+    "expected_bias": "3",
+    "with_title": true,
+    "type_of_question": "Q1"
+  }
+]

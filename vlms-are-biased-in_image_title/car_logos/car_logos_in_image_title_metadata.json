@@ -1,0 +1,52 @@
+[
+  {
+    "ID": "car_logos_1_in_image_title_Q1",
+    "image_path": "images/car_logos_1_in_image_title.png",
+    "topic": "car_logos",
+    "prompt": "How many overlapping circles are there in the logo of this car?",
+    "ground_truth": "5",
+    "expected_bias": "4",
+    "with_title": true,
+    "type_of_question": "Q1"
+  },
+  {
+    "ID": "car_logos_2_in_image_title_Q1",
+    "image_path": "images/car_logos_2_in_image_title.png",
+    "topic": "car_logos",
+    "prompt": "How many overlapping circles are there in the logo of this car?",
+    "ground_truth": "5",
+    "expected_bias": "4",
+    "with_title": true,
+    "type_of_question": "Q1"
+  },
+  {
+    "ID": "car_logos_3_in_image_title_Q1",
+    "image_path": "images/car_logos_3_in_image_title.png",
+    "topic": "car_logos",
+    "prompt": "How many overlapping circles are there in the logo of this car?",
+    "ground_truth": "5",
+    "expected_bias": "4",
+    "with_title": true,
+    "type_of_question": "Q1"
+  },
+  {
+    "ID": "car_logos_4_in_image_title_Q1",
+    "image_path": "images/car_logos_4_in_image_title.png",
+    "topic": "car_logos",
+    "prompt": "How many overlapping circles are there in the logo of this car?",
+    "ground_truth": "5",
+    "expected_bias": "4",
+    "with_title": true,
+    "type_of_question": "Q1"
+  },
+  {
+    "ID": "car_logos_5_in_image_title_Q1",
+    "image_path": "images/car_logos_5_in_image_title.png",
+    "topic": "car_logos",
+    "prompt": "How many overlapping circles are there in the logo of this car?",
+    "ground_truth": "5",
+    "expected_bias": "4",
+    "with_title": true,
+    "type_of_question": "Q1"
+  }
+]

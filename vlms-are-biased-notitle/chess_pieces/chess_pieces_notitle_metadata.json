@@ -1,0 +1,102 @@
+[
+  {
+    "ID": "chess_pieces_1_notitle_Q1",
+    "image_path": "images/chess_pieces_1_notitle.png",
+    "topic": "chess_pieces",
+    "prompt": "How many white pawns are in this image?",
+    "ground_truth": "8",
+    "expected_bias": "Assumes standard chess setup",
+    "with_title": false,
+    "type_of_question": "Q1"
+  },
+  {
+    "ID": "chess_pieces_1_notitle_Q2",
+    "image_path": "images/chess_pieces_1_notitle.png",
+    "topic": "chess_pieces",
+    "prompt": "Count the total number of pieces on the board.",
+    "ground_truth": "32",
+    "expected_bias": "May assume complete chess set",
+    "with_title": false,
+    "type_of_question": "Q2"
+  },
+  {
+    "ID": "chess_pieces_2_notitle_Q1",
+    "image_path": "images/chess_pieces_2_notitle.png",
+    "topic": "chess_pieces",
+    "prompt": "How many white pawns are in this image?",
+    "ground_truth": "8",
+    "expected_bias": "Assumes standard chess setup",
+    "with_title": false,
+    "type_of_question": "Q1"
+  },
+  {
+    "ID": "chess_pieces_2_notitle_Q2",
+    "image_path": "images/chess_pieces_2_notitle.png",
+    "topic": "chess_pieces",
+    "prompt": "Count the total number of pieces on the board.",
+    "ground_truth": "32",
+    "expected_bias": "May assume complete chess set",
+    "with_title": false,
+    "type_of_question": "Q2"
+  },
+  {
+    "ID": "chess_pieces_3_notitle_Q1",
+    "image_path": "images/chess_pieces_3_notitle.png",
+    "topic": "chess_pieces",
+    "prompt": "How many white pawns are in this image?",
+    "ground_truth": "8",
+    "expected_bias": "Assumes standard chess setup",
+    "with_title": false,
+    "type_of_question": "Q1"
+  },
+  {
+    "ID": "chess_pieces_3_notitle_Q2",
+    "image_path": "images/chess_pieces_3_notitle.png",
+    "topic": "chess_pieces",
+    "prompt": "Count the total number of pieces on the board.",
+    "ground_truth": "32",
+    "expected_bias": "May assume complete chess set",
+    "with_title": false,
+    "type_of_question": "Q2"
+  },
+  {
+    "ID": "chess_pieces_4_notitle_Q1",
+    "image_path": "images/chess_pieces_4_notitle.png",
+    "topic": "chess_pieces",
+    "prompt": "How many white pawns are in this image?",
+    "ground_truth": "8",
+    "expected_bias": "Assumes standard chess setup",
+    "with_title": false,
+    "type_of_question": "Q1"
+  },
+  {
+    "ID": "chess_pieces_4_notitle_Q2",
+    "image_path": "images/chess_pieces_4_notitle.png",
+    "topic": "chess_pieces",
+    "prompt": "Count the total number of pieces on the board.",
+    "ground_truth": "32",
+    "expected_bias": "May assume complete chess set",
+    "with_title": false,
+    "type_of_question": "Q2"
+  },
+  {
+    "ID": "chess_pieces_5_notitle_Q1",
+    "image_path": "images/chess_pieces_5_notitle.png",
+    "topic": "chess_pieces",
+    "prompt": "How many white pawns are in this image?",
+    "ground_truth": "8",
+    "expected_bias": "Assumes standard chess setup",
+    "with_title": false,
+    "type_of_question": "Q1"
+  },
+  {
+    "ID": "chess_pieces_5_notitle_Q2",
+    "image_path": "images/chess_pieces_5_notitle.png",
+    "topic": "chess_pieces",
+    "prompt": "Count the total number of pieces on the board.",
+    "ground_truth": "32",
+    "expected_bias": "May assume complete chess set",
+    "with_title": false,
+    "type_of_question": "Q2"
+  }
+]

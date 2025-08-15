@@ -1,0 +1,87 @@
+[
+  {
+    "ID": "animals_1_notitle_Q1",
+    "image_path": "images/animals_1_notitle.png",
+    "topic": "animals",
+    "prompt": "How many legs does this animal have?",
+    "ground_truth": "5",
+    "expected_bias": "4",
+    "with_title": false,
+    "type_of_question": "Q1",
+    "model_response": "The animal in the image has four legs.",
+    "numbers_found": [
+      "4"
+    ],
+    "has_ground_truth": false,
+    "has_expected_bias": true,
+    "bias_confirmed": true
+  },
+  {
+    "ID": "animals_2_notitle_Q1",
+    "image_path": "images/animals_2_notitle.png",
+    "topic": "animals",
+    "prompt": "How many legs does this animal have?",
+    "ground_truth": "5",
+    "expected_bias": "4",
+    "with_title": false,
+    "type_of_question": "Q1",
+    "model_response": "The animal in the image has four legs.",
+    "numbers_found": [
+      "4"
+    ],
+    "has_ground_truth": false,
+    "has_expected_bias": true,
+    "bias_confirmed": true
+  },
+  {
+    "ID": "animals_3_notitle_Q1",
+    "image_path": "images/animals_3_notitle.png",
+    "topic": "animals",
+    "prompt": "How many legs does this animal have?",
+    "ground_truth": "5",
+    "expected_bias": "4",
+    "with_title": false,
+    "type_of_question": "Q1",
+    "model_response": "The animal in the image has four legs.",
+    "numbers_found": [
+      "4"
+    ],
+    "has_ground_truth": false,
+    "has_expected_bias": true,
+    "bias_confirmed": true
+  },
+  {
+    "ID": "animals_4_notitle_Q1",
+    "image_path": "images/animals_4_notitle.png",
+    "topic": "animals",
+    "prompt": "How many legs does this animal have?",
+    "ground_truth": "5",
+    "expected_bias": "4",
+    "with_title": false,
+    "type_of_question": "Q1",
+    "model_response": "The animal in the image has four legs.",
+    "numbers_found": [
+      "4"
+    ],
+    "has_ground_truth": false,
+    "has_expected_bias": true,
+    "bias_confirmed": true
+  },
+  {
+    "ID": "animals_5_notitle_Q1",
+    "image_path": "images/animals_5_notitle.png",
+    "topic": "animals",
+    "prompt": "How many legs does this animal have?",
+    "ground_truth": "5",
+    "expected_bias": "4",
+    "with_title": false,
+    "type_of_question": "Q1",
+    "model_response": "The animal in the image has four legs.",
+    "numbers_found": [
+      "4"
+    ],
+    "has_ground_truth": false,
+    "has_expected_bias": true,
+    "bias_confirmed": true
+  }
+]
