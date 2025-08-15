@@ -165,7 +165,6 @@ We welcome contributions! Areas of interest:
 
 - **Author**: Aman Kumar
 - **Email**: aman24012@iiitd.ac.in
-- **Research Interest Form**: [Fill out here](https://docs.google.com/forms/d/1nyHmBjqQIHcEL5vWBqckcGm8NLuv0ZTy67JkuDh8TNQ)
 
 *Researchers, practitioners, and students interested in VLM evaluation, bias detection, or AI safety are encouraged to reach out!*
 
